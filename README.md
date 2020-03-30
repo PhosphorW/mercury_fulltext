@@ -1,6 +1,19 @@
 # mercury_fulltext
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHenryQW%2Fmercury_fulltext.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHenryQW%2Fmercury_fulltext?ref=badge_shield)
 
+The plugin is used for Tiny Tiny RSS to extract the full contents. I made a little change on it thus it can support `Mercury Parsar API` with any API URL.
+
+If you want to know how to establish a self Mercury Parsar API (without Docker), please refer to:
+如果你想自己在服务器上搭建 Mercury Parser API（不依赖 Docker），请参考：
+
+- EN: [Replacing Postlight’s Mercury scraping service with your self-hosted copy – Babak Fakhamzadeh](https://babakfakhamzadeh.com/replacing-postlights-mercury-scraping-service-with-your-self-hosted-copy/)
+- 中文：[Tiny Tiny RSS 安装及填坑之路](https://phower.me/2020/03/Tiny Tiny RSS 安装及填坑之路/)
+
+Grateful to original author [HenryQW](https://github.com/HenryQW/mercury_fulltext)!!
+
+
+(Below is copied from original repository)
+
+---
 
 A Tiny Tiny RSS plugin written for [tt-rss](https://tt-rss.org) as a replacement for the grandpa-old plugin [af_readability](https://git.tt-rss.org/fox/tt-rss/src/master/plugins/af_readability), which doesn't work well for many RSS sites I subscribe to.
 
@@ -32,7 +45,3 @@ The configuration is identical to af_readability, except you have to save your A
 
 * The plugin is modified based on [af_readability](https://git.tt-rss.org/fox/tt-rss/src/master/plugins/af_readability).
 * [postlight/mercury-parser-api](https://github.com/postlight/mercury-parser-api).
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHenryQW%2Fmercury_fulltext.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHenryQW%2Fmercury_fulltext?ref=badge_large)
