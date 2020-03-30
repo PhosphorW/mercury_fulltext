@@ -3,15 +3,16 @@
 The plugin is used for Tiny Tiny RSS to extract the full contents. I made a little change on it thus it can support `Mercury Parsar API` with any API URL.
 
 If you want to know how to establish a self Mercury Parsar API (without Docker), please refer to:
+
 如果你想自己在服务器上搭建 Mercury Parser API（不依赖 Docker），请参考：
 
 - EN: [Replacing Postlight’s Mercury scraping service with your self-hosted copy – Babak Fakhamzadeh](https://babakfakhamzadeh.com/replacing-postlights-mercury-scraping-service-with-your-self-hosted-copy/)
-- 中文：[Tiny Tiny RSS 安装及填坑之路](https://phower.me/2020/03/Tiny Tiny RSS 安装及填坑之路/)
+- 中文：[Tiny Tiny RSS 安装及填坑之路](https://phower.me/2020/03/Tiny%20Tiny%20RSS%20安装及填坑之路)
 
-Grateful to original author [HenryQW](https://github.com/HenryQW/mercury_fulltext)!!
+Grateful to original author [HenryQW](https://github.com/HenryQW/mercury_fulltext)!!⭐⭐⭐
 
 
-(Below is copied from original repository)
+**(Below is copied from original repository)**
 
 ---
 
